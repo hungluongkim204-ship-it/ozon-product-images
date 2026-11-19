@@ -1,0 +1,17 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "task_id": "P001-YUJU-RODRACK-v5-20261118",
+ "out_dir": "D:/opencode/ozon-product-images/p001/YUJU-RODRACK-v5",
+ "finished_at": "2026-11-19T14:55:10.047Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "V-usage",
+   "status": "ok",
+   "bytes": 2556532,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff0d53-9828-83e9-9cfe-e68d47cf63b9"
+  }
+ ]
+}
