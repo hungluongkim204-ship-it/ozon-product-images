@@ -1,0 +1,49 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "task_id": "P001-YUJU-WUSE-v1-20261119",
+ "out_dir": "D:/opencode/ozon-product-images/p001/YUJU-WUSE-v1",
+ "finished_at": "2026-11-19T15:22:03.778Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "06",
+   "status": "ok",
+   "bytes": 2748786,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff120a-acc4-83ea-a45b-bc97ec594baf"
+  },
+  {
+   "no": "07",
+   "status": "ok",
+   "bytes": 2246698,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff120e-40a4-83ea-9b84-a7c5e8b133f2"
+  },
+  {
+   "no": "08",
+   "status": "ok",
+   "bytes": 2692024,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff12cd-a8e4-83ea-b1aa-8d76483c1d61"
+  },
+  {
+   "no": "09",
+   "status": "ok",
+   "bytes": 2843455,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff12dd-bdf4-83e9-82b1-11aa05d089c5"
+  },
+  {
+   "no": "10",
+   "status": "ok",
+   "bytes": 2543618,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff1397-cd08-83e9-ad5a-c1f055976686"
+  }
+ ]
+}

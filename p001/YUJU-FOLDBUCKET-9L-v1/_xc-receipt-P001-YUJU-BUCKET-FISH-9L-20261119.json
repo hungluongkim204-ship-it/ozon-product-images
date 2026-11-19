@@ -1,0 +1,25 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "task_id": "P001-YUJU-BUCKET-FISH-9L-20261119",
+ "out_dir": "D:/opencode/ozon-product-images/p001/YUJU-FOLDBUCKET-9L-v1",
+ "finished_at": "2026-11-19T14:59:16.866Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "05f",
+   "status": "ok",
+   "bytes": 2832514,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff0e3e-0f08-83e9-9f99-ca58542ea602"
+  },
+  {
+   "no": "07f",
+   "status": "ok",
+   "bytes": 2779340,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff0e42-ad1c-83e9-b7a4-456b7750375e"
+  }
+ ]
+}

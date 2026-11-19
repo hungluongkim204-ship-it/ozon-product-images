@@ -1,0 +1,56 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "mode": "dot",
+ "task_id": "P001-YUJU-SILIBUCKET-GREY-v1-20261118",
+ "finished_at": "2026-11-18T19:18:33.903Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "01",
+   "status": "skipped"
+  },
+  {
+   "no": "02",
+   "status": "skipped"
+  },
+  {
+   "no": "03",
+   "status": "skipped"
+  },
+  {
+   "no": "04",
+   "status": "skipped"
+  },
+  {
+   "no": "05",
+   "status": "skipped"
+  },
+  {
+   "no": "06",
+   "status": "skipped"
+  },
+  {
+   "no": "07",
+   "status": "ok",
+   "bytes": 2166131,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "08",
+   "status": "skipped"
+  },
+  {
+   "no": "09",
+   "status": "skipped"
+  },
+  {
+   "no": "10",
+   "status": "skipped"
+  },
+  {
+   "no": "02-10L",
+   "status": "skipped"
+  }
+ ]
+}

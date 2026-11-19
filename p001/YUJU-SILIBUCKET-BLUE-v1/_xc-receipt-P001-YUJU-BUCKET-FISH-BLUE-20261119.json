@@ -1,0 +1,25 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "task_id": "P001-YUJU-BUCKET-FISH-BLUE-20261119",
+ "out_dir": "D:/opencode/ozon-product-images/p001/YUJU-SILIBUCKET-BLUE-v1",
+ "finished_at": "2026-11-19T15:03:49.540Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "05f",
+   "status": "ok",
+   "bytes": 2552933,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff0f69-e070-83e9-b79d-c7d71f55f7b7"
+  },
+  {
+   "no": "07f",
+   "status": "ok",
+   "bytes": 2720547,
+   "width": 1086,
+   "height": 1448,
+   "conversation": "https://chatgpt.com/c/6aff0f6e-9fa0-83e9-9e8a-fffd11b54f8d"
+  }
+ ]
+}

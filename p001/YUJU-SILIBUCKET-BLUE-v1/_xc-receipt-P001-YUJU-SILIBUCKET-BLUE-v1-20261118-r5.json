@@ -1,0 +1,86 @@
+{
+ "schema": "p001-xc-imagegen/v1",
+ "mode": "dot",
+ "task_id": "P001-YUJU-SILIBUCKET-BLUE-v1-20261118-r5",
+ "finished_at": "2026-11-18T15:35:50.188Z",
+ "stopped": null,
+ "results": [
+  {
+   "no": "01",
+   "status": "ok",
+   "bytes": 2277514,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "02",
+   "status": "ok",
+   "bytes": 1961124,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "03",
+   "status": "ok",
+   "bytes": 1948407,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "04",
+   "status": "ok",
+   "bytes": 2529563,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "05",
+   "status": "ok",
+   "bytes": 2706332,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "06",
+   "status": "ok",
+   "bytes": 2744038,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "07",
+   "status": "ok",
+   "bytes": 2437644,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "08",
+   "status": "ok",
+   "bytes": 2983435,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "09",
+   "status": "ok",
+   "bytes": 2500019,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "10",
+   "status": "ok",
+   "bytes": 2125778,
+   "width": 1086,
+   "height": 1448
+  },
+  {
+   "no": "02-10L",
+   "status": "ok",
+   "bytes": 2020501,
+   "width": 1086,
+   "height": 1448
+  }
+ ]
+}
